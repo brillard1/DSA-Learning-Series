@@ -1,2 +1,2 @@
-# DSA_Learn
+# DSA Learning Series
 My self learning DSA series
